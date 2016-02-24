@@ -1,10 +1,10 @@
 # Gitlab Users Sync on Groups
 
-## PRE-REQUIS
+## PREREQUISITE
 
 Copy config.json.sample and edit it with your url and private key.
 
-## Usage
+## USAGE
 
 ```
   -help
