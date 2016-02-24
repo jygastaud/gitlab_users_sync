@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/plouc/go-gitlab-client"
+	"github.com/jygastaud/go-gitlab-client"
 )
 
 type Config struct {
