@@ -84,7 +84,7 @@ func main() {
 		if ids == "" {
 			fmt.Println("Fetching groups...")
 
-			groups, err := gitlab.Groups()
+			groups, err := gitlab.Groups(query)
 			if err != nil {
 				fmt.Println(err.Error())
 				return
